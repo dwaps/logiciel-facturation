@@ -1,0 +1,19 @@
+/*CHARTE GRAPHIQUE*/
+/* PRIMARY ==> hsl(0,77%,28%); /* dwaps-red */
+/* SECOUNDARY ==> hsl(126,68%,28%); /* dwaps-green */
+/* SECOUNDARY LIGHT ==> hsl(126,68%,50%); /* dwaps-green-light */
+/*FIN CHARTE GRAPHIQUE*/
+
+.products-list {
+  margin-left: 25%;
+}
+
+.products-item {
+  margin: 20px;
+  opacity: 0.8;
+}
+
+.products-item p {
+  font-size: 0.9em;
+  margin: 20px;
+}
