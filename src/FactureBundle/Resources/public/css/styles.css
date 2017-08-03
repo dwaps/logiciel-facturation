@@ -1,0 +1,8 @@
+/*CHARTE GRAPHIQUE*/
+/* PRIMARY ==> hsl(0,77%,28%); /* dwaps-red */
+/* SECOUNDARY ==> hsl(126,68%,28%); /* dwaps-green */
+/* SECOUNDARY LIGHT ==> hsl(126,68%,50%); /* dwaps-green-light */
+/*FIN CHARTE GRAPHIQUE*/
+
+@import '/bundles/facture/css/menu-bar.css';
+@import '/bundles/facture/css/products-list.css';
